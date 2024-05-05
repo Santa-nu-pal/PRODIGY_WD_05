@@ -1,4 +1,5 @@
-Weather Web Application
+#Weather Web Application
+
 Building an Weather Web Application 
 Our weather web application is a user-friendly platform designed to provide real-time weather information for any location around the globe. With a sleek and intuitive 
 interface, users can easily input their desired location and instantly access accurate weather forecasts. Powered by APIs and JavaScript, our application delivers comprehensive
